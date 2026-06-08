@@ -1,0 +1,4 @@
+# Ignore autosave and history files
+/.history
+~_autosave-LED_Torch.kicad_pcb.lck
+/.LED_Torch-backups
