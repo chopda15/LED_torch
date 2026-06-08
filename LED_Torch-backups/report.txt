@@ -1,1 +1,0 @@
-Change symbol SW1 from 'Switch:SW_DPST_x2' to 'Switch:SW_DPST_x2': OK
